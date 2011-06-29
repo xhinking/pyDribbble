@@ -1,0 +1,12 @@
+h1. pyDribbble (unfinished)
+pyDribbble is a Dribbble API python wrapper.
+
+h2. Document
+* DribbleAPI.shots(id) - Returns details for a shot specified by id -> GET /shots/:id
+* DribbleAPI.players_shots(id) - Returns the most recent shots for the player specified by :id -> GET /players/:id/shots
+
+h2.Author
+xhinking@gmail.com
+
+h2.License
+pyDribbble is released under the MIT license.

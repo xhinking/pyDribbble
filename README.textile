@@ -7,7 +7,9 @@ h2. Document
 * DribbleAPI.players_shots(id) - Returns the most recent shots for the player specified by :id -> GET /players/:id/shots
 
 h2. Author
+
 xhinking@gmail.com
 
 h2. License
+
 pyDribbble is released under the MIT license.
